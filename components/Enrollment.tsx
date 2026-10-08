@@ -78,7 +78,7 @@ export default function Enrollment() {
           <div ref={couponGroupRef} className="opacity-0 bg-surface-container p-space-md md:p-space-lg rounded-xl flex flex-col sm:flex-row items-center justify-between gap-space-md" style={{backgroundColor: "#f1ede4", border: "1px solid #dfd7c9"}}>
             <div className="space-y-1 text-center sm:text-left">
               <span className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant font-bold block">
-                EARLYBIRD CODE
+                DSS50 CODE
               </span>
               <span className="font-headline-sm text-headline-sm text-on-surface tracking-widest font-semibold block" style={{color: "#133e48"}}>
                 DSS50
