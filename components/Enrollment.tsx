@@ -80,7 +80,7 @@ export default function Enrollment() {
               <span className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant font-bold block">
                 DSS50 CODE
               </span>
-              <span className="font-headline-sm text-headline-sm text-on-surface tracking-widest font-semibold block" style={{color: "#133e48"}}>
+              <span className="font-headline-sm text-headline-sm text-on-surface font-semibold block" style={{color: "#133e48"}}>
                 DSS50
               </span>
               <p className="font-body-sm text-body-sm text-on-surface-variant">
