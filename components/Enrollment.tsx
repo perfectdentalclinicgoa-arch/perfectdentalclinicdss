@@ -174,7 +174,7 @@ export default function Enrollment() {
               {/* Coupon code — SAME LINE on all screen sizes */}
               <div className="flex items-baseline justify-center sm:justify-start gap-3">
                 <span className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant font-bold">
-                  DSS50 CODE
+                  Coupon CODE
                 </span>
 
                 <span
