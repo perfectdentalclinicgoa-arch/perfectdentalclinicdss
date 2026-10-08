@@ -81,7 +81,7 @@ export default function Enrollment() {
                 EARLYBIRD CODE
               </span>
               <span className="font-headline-sm text-headline-sm text-on-surface tracking-widest font-semibold block" style={{color: "#133e48"}}>
-                EARLYBIRDS
+                DSS50
               </span>
               <p className="font-body-sm text-body-sm text-on-surface-variant">
                 Limited time special discount coupon 
