@@ -53,11 +53,9 @@ export default function WhoItsFor() {
     <section ref={sectionRef} className="w-full bg-surface-container-low py-space-xl" id="whos-it-for">
       <div className="max-w-7xl mx-auto px-margin md:px-margin-desktop">
         <div className="flex flex-col space-y-space-xs mb-space-lg">
-          <span ref={eyebrowRef} className="opacity-0 font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant">
-            Target Practitioners &amp; Clinical Objectives
-          </span>
+          
           <h2 ref={headingRef} className="opacity-0 font-headline-lg text-headline-lg text-on-surface font-normal" style={{color: "#0f4049", fontWeight: 500}}>
-            Is this training right for you?
+            This course is for you if:
           </h2>
         </div>
         
