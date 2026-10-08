@@ -113,7 +113,7 @@ export default function Hero() {
                 </div>
                 <div className="pt-2 px-1 text-center">
                   <span className="font-label-sm text-label-sm tracking-wider uppercase text-on-surface-variant font-semibold block">Dr. Raut</span>
-                  <span className="font-body-sm text-body-sm text-on-surface-variant text-[11px] leading-tight block">Clinical Director</span>
+                  <span className="font-body-sm text-body-sm text-on-surface-variant text-[11px] leading-tight block">Aesthetic Dentist</span>
                 </div>
               </div>
               
