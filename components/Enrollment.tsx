@@ -171,21 +171,21 @@ export default function Enrollment() {
           >
             <div className="space-y-1 text-center sm:text-left">
 
-              {/* Desktop: DSS50 CODE + DSS50 on same line */}
-              <div className="lg:flex lg:items-baseline lg:gap-3">
-                <span className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant font-bold block">
+              {/* Coupon code — SAME LINE on all screen sizes */}
+              <div className="flex items-baseline justify-center sm:justify-start gap-3">
+                <span className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant font-bold">
                   DSS50 CODE
                 </span>
 
                 <span
-                  className="font-body-lg text-body-lg text-on-surface font-semibold block"
+                  className="font-body-lg text-body-lg text-on-surface font-semibold"
                   style={{ color: "#133e48" }}
                 >
                   DSS50
                 </span>
               </div>
 
-              {/* Description remains below */}
+              {/* Description */}
               <p className="font-body-sm text-body-sm text-on-surface-variant">
                 Limited time special discount coupon
               </p>
