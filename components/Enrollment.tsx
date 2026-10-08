@@ -84,7 +84,7 @@ export default function Enrollment() {
                 EARLYBIRDS
               </span>
               <p className="font-body-sm text-body-sm text-on-surface-variant">
-                Apply this code during enrollment for the early-bird discount.
+                Limited time special discount coupon 
               </p>
             </div>
             <button 
